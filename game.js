@@ -1,3 +1,4 @@
+
 ///Variables
 var x = 0;
 var player;
@@ -16,7 +17,7 @@ var gameActive = true;
 
 //what happens on startup
 function setup() {
-    bg = loadImage("basketcourt.jpg");
+    bg = loadImage("basketcourt.png");
     //make a screen
     createCanvas(600,400);
    
